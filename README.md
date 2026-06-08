@@ -14,3 +14,4 @@ Simple calculator for js practice
 ## Installation
 Clone and open `index.html`
 
+![example image](./image.png)
